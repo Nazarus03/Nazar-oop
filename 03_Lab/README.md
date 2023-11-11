@@ -9,8 +9,8 @@
     3. Всі результати роботи з класом об'єктів представлені [Python Notebook](note.ipynb);
     4. Винесли створений клас у модуть та попрактикувались в його імпорті;
     5. Скріншот роботи програми
-![alt text](https://github.com/Nazarus03/Nazar-oop/blob/main/Pictures/Screenshot_1.jpg)
-6. Відповіді на запитання:
+    ![alt text](https://github.com/Nazarus03/Nazar-oop/blob/main/Pictures/Screenshot_1.jpg)
+    6. Відповіді на запитання:
 
 Чому коли передаємо значення None створюється обєкт з іменем Anonymous?
 
