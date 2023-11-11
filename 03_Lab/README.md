@@ -9,7 +9,7 @@
     1. Всі результати роботи з класом об'єктів представлені [Python Notebook](note.ipynb);
     1. Винесли створений клас у модуть та попрактикувались в його імпорті;
     1. Скріншот роботи програми
-![alt text](C:\Users\User\Desktop\Навчання\Об'єктно-орієнтованепрограмування\Nazar-oop\Pictures\Screenshot_1.jpg)
+![alt text](https://github.com/Nazarus03/Nazar-oop/blob/main/Pictures/Screenshot_1.jpg)
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
