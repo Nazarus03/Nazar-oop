@@ -25,4 +25,4 @@
 | [Лабораторна робота 2](02_Lab/README.md)  |:heavy_check_mark:|
 | [Лабораторна робота 3](03_Lab/README.md)  |:heavy_check_mark:|
 | [Лабораторна робота 4](04_Lab/README.md)  |:heavy_check_mark:|
-| Лабораторна робота 5                      |:smiling_imp:|
+| [Лабораторна робота 5](https://nazarus03.github.io/Nazar-oop/)|:heavy_check_mark:|
